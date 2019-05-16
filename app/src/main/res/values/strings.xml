@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyRecicleView</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="cardview">CardView</string>
+    <string name="faforite">Faforite</string>
+    <string name="share">Share</string>
+    <string name="daftar_presiden_ri">Daftar Presiden RI</string>
+</resources>
